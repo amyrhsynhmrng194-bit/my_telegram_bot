@@ -52,7 +52,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # توکن ربات را از متغیر محیطی یا مستقیم وارد کنید
-BOT_TOKEN = 8451721611:AAG-184s3sZqs-3OcKjEozYv4XJWJ9hP8pE
+BOT_TOKEN = "8451721611:AAG-184s3sZqs-3OcKjEozYv4XJWJ9hP8pE"
 
 # ─── ذخیره‌سازی داده (در پروداکشن از دیتابیس استفاده کنید) ──
 DATA_FILE = "data.json"
